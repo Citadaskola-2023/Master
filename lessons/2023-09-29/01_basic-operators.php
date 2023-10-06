@@ -1,8 +1,7 @@
 <?php
 
-$a = 10;
+$a = 11;
 $b = 5;
-
 $sum = $a + $b;
 echo "Sum: " . $sum . "\n";
 
