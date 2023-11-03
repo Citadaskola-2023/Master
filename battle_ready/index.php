@@ -1,4 +1,7 @@
 <?php
+
+session_start();
+
 class Character {
     protected $name;
     protected $power;
