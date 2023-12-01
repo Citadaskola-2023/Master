@@ -1,4 +1,4 @@
-FROM php:8.2.11
+FROM php:8.2.11-alpine
 
 # Set the working directory
 WORKDIR /var/www/html

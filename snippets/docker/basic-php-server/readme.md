@@ -25,3 +25,9 @@ cd ../../../
 docker run --rm -d -p 8080:80 -v $(pwd):/var/www/html cs-php
 ```
 
+
+```shell
+docker run -v $PWD:/app/public \
+    -p 80:8081 -p 443:443 \
+    dunglas/frankenphp
+```

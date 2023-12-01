@@ -1,0 +1,25 @@
+{
+    "name": "citadaskola/roberts",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Roberts"
+        }
+    ],
+    "require": {
+        "symfony/var-dumper": "^6.3"
+    },
+    "config": {
+        "allow-plugins": {
+            "pestphp/pest-plugin": true
+        }
+    },
+    "require-dev": {
+        "pestphp/pest": "^2.24"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    }
+}
