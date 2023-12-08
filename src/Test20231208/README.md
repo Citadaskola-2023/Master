@@ -41,9 +41,9 @@ Uzdevuma nosacījumi ir ir aprakstīti katra uzdevuma mapē **README.md** failos
 Kodu rakstīt abilstošajā mapītē un failos (pēc uzdevuma nosacījumiem). Klases failus un mapes definējam ar Lielo sākuma burtu.
 
 Pārbaudes darbam būs divas daļas
-1. OOP un ārējās bibliotēkas (80 min, 10:50-12:10); 
+1. OOP un ārējās bibliotēkas (80 min, 12:00-13:20); 
    2. Pārtraukums 30 min
-2. Programmatūras izstrāde - atkļūdošana un vienībtestēšana (80 min, 12:40-14:00)  
+2. Programmatūras izstrāde - atkļūdošana un vienībtestēšana (80 min, 13:50-15:10)  
 
 Pārbaudes darba norises laikā pārbaudes darba vadītājs skaidrojumus par uzdevumiem nesniedz.
 
