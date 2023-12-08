@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace App\Test20231208\Math;
+namespace App\Test20231208\Uzd34;
 
 /**
  * Write a function to subtract 1 from the digits, where digits is a list representing a positive integer

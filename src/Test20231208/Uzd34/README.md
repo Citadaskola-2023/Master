@@ -1,10 +1,10 @@
 # Uzdevuma Apraksts:
 
 Jums ir dotas PHP klases `PerfectIntegerList` un `SubtractOne`.
-`PerfectIntegerLis` uzdevums noskaidrot, vai dotais veselo skaitļu masīvs ir "ideāls" saraksts. Ideāls saraksts ir tāds, kur katras veselo skaitļu biežības atbilst pašam skaitlim masīvā.
+`PerfectIntegerList` uzdevums noskaidrot, vai dotais veselo skaitļu masīvs ir "ideāls" saraksts. Ideāls saraksts ir tāds, kur katras veselo skaitļu biežības atbilst pašam skaitlim masīvā. 
 Taču `SubstractOne` uzdevums no masīva elementiem atņem vienu skaili nost.
 
-Jūsu uzdevums ir identificēt un labot pieļautās kļūdas kodā un pievienot vienībtestus, lai nodrošinātu `run` metožu pareizību.
+Jūsu uzdevums ir identificēt un labot pieļautās kļūdas kodā (vienībtestos kļūdu nav!) un pievienot vienībtestus, lai nodrošinātu `run` metožu pareizību.
 
 ### Identificēt un Labot Kļūdas:
 1. Labot mainīgo nosaukumus pirmajā ciklā (2 punkti).

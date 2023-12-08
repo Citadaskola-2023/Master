@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace App\Test20231208\Math;
+namespace App\Test20231208\Uzd34;
 
 /**
  * Write a function to determine if numList is a perfect integer list
